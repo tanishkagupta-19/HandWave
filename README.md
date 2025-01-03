@@ -26,3 +26,13 @@ To get started with **HandWave**, follow these instructions:
 
    ```bash
    pip install opencv-python mediapipe
+## Running the Application
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/HandWave.git
+   
+2. Navigate into the project folder:
+```bash
+cd HandWave
+
