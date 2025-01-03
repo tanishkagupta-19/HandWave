@@ -1,5 +1,5 @@
-import cv2  # Can be installed using "pip install opencv-python"
-import mediapipe as mp  # Can be installed using "pip install mediapipe"
+import cv2 
+import mediapipe as mp  
 import time
 import math
 import numpy as np
