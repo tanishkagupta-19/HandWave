@@ -63,10 +63,6 @@ If you want to contribute to **HandWave**, feel free to fork the repository, mak
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - OpenCV for image processing and computer vision.
