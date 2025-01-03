@@ -15,8 +15,6 @@ HandWave is a cutting-edge project designed to allow users to control the cursor
 - **OpenCV**: For real-time image processing and hand detection.
 - **MediaPipe**: A framework by Google that provides pre-built models for hand tracking.
 - **Machine Learning**: For training the system to accurately recognize various gestures.
-- **Tkinter/GUI Framework**: To create an interface (optional).
-
 ## Getting Started
 
 To get started with **HandWave**, follow these instructions:
