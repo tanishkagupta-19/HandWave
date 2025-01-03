@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 import time
 import HandTracking as ht
-import autopy   # Install using "pip install autopy"
-### Variables Declaration
+import autopy  
+
 pTime = 0               # Used to calculate frame rate
 width = 640             # Width of Camera
 height = 480            # Height of Camera
