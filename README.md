@@ -33,6 +33,44 @@ To get started with **HandWave**, follow these instructions:
    git clone https://github.com/yourusername/HandWave.git
    
 2. Navigate into the project folder:
-```bash
-cd HandWave
+   ```bash
+   cd HandWave
+3. Run the application:
+   ```bash
+   python handwave_cursor_control.py
+4. Follow the on-screen instructions to calibrate your hand gestures.
+   ## Usage
+
+- **Move Cursor**: Move your hand up, down, left, or right to move the cursor on the screen.
+- **Click**: Make a fist to perform a left-click.
+- **Scroll**: Move your fingers apart to scroll.
+
+## Customization
+
+- Modify gesture recognition settings for improved accuracy.
+- Adjust cursor sensitivity based on personal preference.
+
+## Contributing
+
+If you want to contribute to **HandWave**, feel free to fork the repository, make your changes, and submit a pull request.
+
+### How to Contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- OpenCV for image processing and computer vision.
+- MediaPipe for hand tracking.
+- Python community for libraries and support.
+
 
